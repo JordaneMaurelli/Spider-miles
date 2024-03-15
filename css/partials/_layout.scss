@@ -108,17 +108,20 @@
 
 .btn-secondary{
 
+    border: 10px solid green;
+
     display: inline-block;
     border: 2px solid red;
 
-    padding: 10px 32px ;
+    padding: 5px 15px;
     border-radius: 3px;
 
     transition: .7s ease;
     transform: skew(-10deg);
     text-transform: uppercase;
 
-    background: transparent;
+    //background: transparent;
+    backdrop-filter: blur(10px);
 
     position: relative;
 
@@ -177,6 +180,7 @@
 }
 
 .bg-loader{
+
 
     width: 100%;
     height: 100vh;
