@@ -1,6 +1,6 @@
 ﻿# Spider-miles
 
-Projeto feito com HTML, CSS, SCSS e JS, utilizando as bibliotecas GSAP para animação das divs e tilt.js para animação parallax das .pngs
+Projeto feito com HTML, CSS, SCSS e JS, utilizando as bibliotecas GSAP para animação das divs e tilt.js para animação parallax das .pngs, com axilios de mixin para ganho de produtividade
 
 segue o preview do projeto 
 
